@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm a developer who enjoys building practical solutions, automating infrastructure, and tackling big challenges—both on a screen and on a mountain. 
+# Hi there, I'm Mitch, a Cloud Engineer👋
 
 ### 🚀 What I'm Up To
 
