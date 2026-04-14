@@ -3,8 +3,8 @@
 ### 🚀 What I'm Up To
 
 * 🔭 **Currently building:** A Python and PostgreSQL application to manage logistics and visualize data for a board game convention I volunteer at.
-* 🌱 **Currently learning:** Harvard CS50x (Intro to Computer Science), Harvard CS50P (Intro to Python), and Italian 🇮🇹.
-* 💬 **Ask me about:** Python, database structures, or my favorite board game strategies!
+* 🌱 **Currently learning:** Harvard CS50x (Intro to Computer Science), Harvard CS50P (Intro to Python), and Italian 🍝.
+* 💬 **Chat with me about:** Board games, what book I'm reading, what podcast I'm listening to or my current YouTube rabbit hole (usually philosphy or mathematics) 
 
 ---
 
@@ -24,12 +24,12 @@
 
 ### ⚡ Outside of Coding
 
-* 🎲 **Hobbies:** When I'm away from the keyboard, I'm usually playing board games, on the padel court 🎾, or cheering on Arsenal FC 🔴⚪. 
-* 🏔️ **Fun Fact:** I successfully completed the National 3 Peaks Challenge—climbing the highest mountains in Scotland, England, and Wales in a continuous 24-hour period! 
+* 🎲 **Hobbies:** When I'm away from the keyboard, I'm usually playing board games, on the padel court 🎾, or cheering on Arsenal 🔴⚪. 
+* 🏔️ **Fun Fact:** I successfully completed the National 3 Peaks Challenge - climbing the highest mountains in Scotland, England, and Wales in a single, continuous 24-hour period! 
 
 ---
 
 ### 📫 Let's Connect
 
-* [LinkedIn](https://linkedin.com/in/your-profile)
-* [Email](mailto:your-email@example.com)
+* [LinkedIn](https://linkedin.com/in/mitchell-lewsey)
+* [Email](mailto:mitch.lewsey@gmail.com)
