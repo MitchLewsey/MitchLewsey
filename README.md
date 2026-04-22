@@ -3,7 +3,7 @@
 ### 🚀 What I'm Up To
 
 * 🔭 **Currently building:** A Python and PostgreSQL application to manage logistics and visualize data for a board game convention I volunteer at.
-* 🌱 **Currently learning:** Harvard CS50x (Intro to Computer Science), Harvard CS50P (Intro to Python), and Italian 🍝.
+* 🌱 **Currently learning:** Harvard CS50x (Intro to Computer Science), Microsoft's Learn C#, and Italian 🍝.
 * 💬 **Chat with me about:** Board games, what book I'm reading, what podcast I'm listening to or my current YouTube rabbit hole (usually philosphy or mathematics) 
 
 ---
