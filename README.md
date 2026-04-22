@@ -1,4 +1,4 @@
-# Hi there, I'm Mitch, a Cloud Engineer👋
+# Hi there, I'm Mitch 👋
 
 ### 🚀 What I'm Up To
 
